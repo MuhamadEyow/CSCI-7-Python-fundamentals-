@@ -1,6 +1,6 @@
 # Topic Study Template
 
-Use these files inside each topic folder:
+Each topic uses the same seven-part learning system:
 
 ```text
 topic-name/
@@ -14,22 +14,30 @@ topic-name/
 └── whiteboard.py
 ```
 
-## Required Content
+## 1. Explanation
 
-### Explanation
-Describe what the concept is, what it does, and when to use it.
+Describe what the concept is, what it does, when to use it, and one common mistake.
 
-### Examples
-Add commented code and explain important lines.
+## 2. Commented Examples
 
-### Expected Output
-Predict the output before running the program, then compare.
+Explain important lines directly above the code. Keep each example focused on one idea.
 
-### Exercises
-Complete at least three exercises: beginner, intermediate, and applied.
+## 3. Expected Output
 
-### Quiz
-Answer short concept, output-prediction, and debugging questions.
+Predict the exact output before running the program. Then compare the prediction with the actual result.
 
-### Interview Practice
-Complete one LeetCode-style problem and one whiteboard-style problem. Include the approach and time and space complexity.
+## 4. Three Exercises
+
+Complete a beginner exercise, an intermediate exercise, and a small real-world exercise.
+
+## 5. Quiz
+
+Answer concept questions, predict output, and debug incorrect code.
+
+## 6. LeetCode Practice
+
+Write the problem, examples, approach, commented solution, and time and space complexity.
+
+## 7. Whiteboard Practice
+
+Restate the question, clarify requirements, discuss edge cases, explain the plan aloud, write code, test manually, and analyze complexity.

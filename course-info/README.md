@@ -1,16 +1,17 @@
 # Course Information
 
-This folder contains the planning tools for the course.
+This repository is organized as a 50-topic Python curriculum.
 
-- [Progress Tracker](PROGRESS_TRACKER.md) — Check off completed topics.
-- [Topic Study Template](TOPIC_TEMPLATE.md) — Use the same learning process for every topic.
+- [Progress Tracker](PROGRESS_TRACKER.md) — Track all required work for every topic.
+- [Topic Study Template](TOPIC_TEMPLATE.md) — Use one consistent format throughout the course.
+- [Curriculum Index](../topics/README.md) — Browse all 10 modules and 50 fundamentals.
 
 ## Recommended Weekly Routine
 
-- **Day 1:** Read the lesson and study the examples.
-- **Day 2:** Re-create the examples without copying.
+- **Day 1:** Learn the concept and write notes.
+- **Day 2:** Run and re-create the examples.
 - **Day 3:** Complete three exercises.
 - **Day 4:** Solve the LeetCode-style problem.
-- **Day 5:** Solve and explain the whiteboard problem.
-- **Day 6:** Take the quiz and review mistakes.
-- **Day 7:** Build or improve a small project.
+- **Day 5:** Explain and solve the whiteboard problem.
+- **Day 6:** Take the quiz and correct mistakes.
+- **Day 7:** Review progress and plan the next topic.
