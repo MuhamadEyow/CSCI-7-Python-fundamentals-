@@ -4,14 +4,7 @@ This repository organizes my Python course, learning topics, assignments, projec
 
 ## Folder Structure
 
-```text
-CSCI-7-Python-fundamentals-/
-├── course/
-├── topics/
-├── assignments/
-├── projects/
-└── resources/
-```
+
 
 | Folder | What It Contains |
 |---|---|
