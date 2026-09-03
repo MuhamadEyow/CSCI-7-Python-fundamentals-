@@ -1,14 +1,15 @@
 # Projects
 
-Projects combine several Python topics into complete programs.
+This folder contains Python projects that combine multiple fundamentals.
 
 ```text
-project-name/
-├── README.md
-├── main.py
-├── requirements.txt
-├── data/
-└── tests/
+projects/
+└── project-name/
+    ├── README.md
+    ├── main.py
+    ├── requirements.txt
+    ├── data/
+    └── tests/
 ```
 
-Document the problem, features, installation steps, usage, example output, technologies, and lessons learned.
+Every project should document the problem, features, setup, usage, example output, technologies, and lessons learned.
