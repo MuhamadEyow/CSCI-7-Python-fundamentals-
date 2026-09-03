@@ -1,0 +1,5 @@
+Student: Muhamad (str)
+Weekly hours: 7 (int)
+Progress: 0.0 (float)
+Enrolled: True (bool)
+Final grade: None (NoneType)
