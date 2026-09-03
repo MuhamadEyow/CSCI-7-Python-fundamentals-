@@ -17,13 +17,9 @@ This repository organizes my Python course, learning topics, assignments, projec
 ## How I Use This Repository
 
 1. Choose the next concept from the [topics folder](topics/).
-2. Learn the explanation and study the commented examples.
-3. Predict the output before running the program.
-4. Complete three exercises and a short quiz.
-5. Solve one LeetCode-style problem and one whiteboard-style problem.
-6. Save formal coursework in [assignments](assignments/).
-7. Apply several concepts together in [projects](projects/).
-8. Update the [progress tracker](course/PROGRESS_TRACKER.md).
+2. Solve one LeetCode-style problem and one whiteboard-style problem.
+3. Apply several concepts together in [projects](projects/).
+4. Update the [progress tracker](course/PROGRESS_TRACKER.md).
 
 ## The 50 Python Fundamentals
 
